@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "text": "Sign Up",
+        "path": "/sign-up",
+        "icon": "feather-user-plus"
+    },
+    {
+        "id": 2,
+        "text": "Log In",
+        "path": "/login",
+        "icon": "feather-log-in"
+    }
+]

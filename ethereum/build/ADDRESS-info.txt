@@ -1,0 +1,31 @@
+MyNFT contract deployed to
+
+0x42EFf919b98914203fACEaFcecD68d0286a9fD66
+
+0xECa45694F619dB715bbb4747647C17694f882547
+
+rivi
+deployed from browser ### use this one, worked
+
+0xe7d02ef4094f334D480EAaC6C90d21f80135A081
+0xe7d02ef4094f334D480EAaC6C90d21f80135A081
+
+May have to redeploy with correct ABI and byte code
+may have mixed it up
+
+LATEST ADDRESS 2/28/23
+0xD2bCfeB4839A04eeE1660D7793F71D72CB496B8B
+
+LATER ADDRESS After 2/28/23 Goerli net
+0x2DEC1df09533520C79502441c99161DCa25E6e0E
+
+LATEST 3/26/2023 Sepolia net
+0x16626e12B72DB7f8DDeb598e09A5E999838d023E
+
+0x1a3e1e2dB673C96fF0FC2dcA79BA7FfD5AfFB13d
+
+3 AREAS TO update address
+
+containers/product-details/index
+containers/create-new/index
+components/product-details/title

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "text": "Create",
+        "path": "/create",
+        "icon": "feather-file-plus"
+    },
+
+    {
+        "id": 4,
+        "text": "User",
+        "path": "#",
+        "icon": "feather-user",
+        "submenu": [
+            {
+                "id": 5,
+                "text": "Log Out",
+                "path": "/logout",
+                "icon": "feather-user-minus"
+            }
+        ]
+    }
+]

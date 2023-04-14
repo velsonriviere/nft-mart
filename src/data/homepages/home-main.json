@@ -1,0 +1,141 @@
+{
+    "title": "home-04",
+    "content": [
+        {
+            "section": "hero-section",
+            "badge": "NFT Marketplace",
+            "title": "Create your very own NFT  <br/>  in seconds",
+            "description": "Where Bitcoin was hailed as the digital answer to currency, NFTs <br/> are now being touted as the digital answer to Art.",
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/login",
+                    "content": "Log In"
+                },
+                {
+                    "id": 2,
+                    "path": "/sign-up",
+                    "content": "Sign Up"
+                }
+            ],
+            "banners": [
+                {
+                    "id": 1,
+                    "title": "Sukanli",
+                    "client": "Bordcast",
+                    "path": "#",
+                    "image": {
+                        "src": "/images/banner/nft1.jpg"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "HasLivbe",
+                    "client": "Md. Master",
+                    "path": "#",
+                    "image": {
+                        "src": "/images/banner/nft2.jpg"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "Ladicon Mos",
+                    "client": "John Lee",
+                    "path": "#",
+                    "image": {
+                        "src": "/images/banner/nft3.jpg"
+                    }
+                },
+                {
+                    "id": 4,
+                    "title": "Masters",
+                    "client": "Keenlee",
+                    "path": "#",
+                    "image": {
+                        "src": "/images/banner/nft4.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "section": "live-explore-section",
+            "section_title": {
+                "title": "Live Bidding"
+            }
+        },
+        {
+            "section": "explore-product-section",
+            "section_title": {
+                "title": "NFT List"
+            }
+        },
+        {
+            "section": "top-sller-section",
+            "section_title": {
+                "title": "Members"
+            }
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Create and sell your NFTs"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Set up your wallet",
+                    "path": "https://metamask.io/",
+                    "subtitle": "Step-01",
+                    "description": "Install MetaMask wallet on your browser. Change the wallets network to Ethereum's test network, Sepolia.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-7.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Become a member",
+                    "path": "/sign-up",
+                    "subtitle": "Step-02",
+                    "description": "Create an account and be logged in to be able to access restricted pages such as NFT Create and NFT Details",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Create NFT's",
+                    "path": "/create",
+                    "subtitle": "Step-03",
+                    "description": "Fill out a simple form and upload your own image to create your own NFT",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-5.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Buy and sell NFT's",
+                    "path": "#",
+                    "subtitle": "Step-04",
+                    "description": "Put your NFT that you created for sale and you can buy other NFT's that are listed",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-6.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "collection-section",
+            "section_title": {
+                "title": "Top Collection"
+            }
+        }
+    ]
+}

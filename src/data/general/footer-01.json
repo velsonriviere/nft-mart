@@ -1,0 +1,141 @@
+{
+    "id": "footer-data-01",
+    "logo-widget": {
+        "logo": [
+            {
+                "src": "/images/logo/logo-white.png",
+                "alt": "logo"
+            }
+        ],
+        "text": "Website to create, buy and sell NFTs. Web app built with REACT Next JS frontend and Express JS backend and interacts with Solidity built Ethereum contracts powered by web3. "
+    },
+    "newsletter-widget": {
+        "title": "Get The Latest Nuron Updates",
+        "note": "Email is safe. We don't spam."
+    },
+    "quicklink-widget": {
+        "title": "React",
+        "menu": [
+            {
+                "id": 1,
+                "text": "Next frontend",
+                "path": "#"
+            },
+            {
+                "id": 2,
+                "text": "Express backend",
+                "path": "#"
+            },
+            {
+                "id": 3,
+                "text": "JSON Web Tokens",
+                "path": "#"
+            },
+            {
+                "id": 4,
+                "text": "Web3",
+                "path": "#"
+            },
+            {
+                "id": 5,
+                "text": "Hooks",
+                "path": "#"
+            },
+            {
+                "id": 6,
+                "text": "Context",
+                "path": "#"
+            },
+            {
+                "id": 7,
+                "text": "API Routes",
+                "path": "#"
+            }
+        ]
+    },
+    "information-widget": {
+        "title": "Blockchain",
+        "menu": [
+            {
+                "id": 1,
+                "text": "Solidity coding",
+                "path": "#"
+            },
+            {
+                "id": 2,
+                "text": "Develop Eth. contract",
+                "path": "#"
+            },
+            {
+                "id": 3,
+                "text": "Deploy Eth. contract",
+                "path": "#"
+            },
+            {
+                "id": 4,
+                "text": "Interact with Eth. contract",
+                "path": "#"
+            },
+            {
+                "id": 5,
+                "text": "Set Test Network",
+                "path": "#"
+            }
+        ]
+    },
+    "information-widget2": {
+        "title": "Web Development",
+        "menu": [
+            {
+                "id": 7,
+                "text": "MERN Stack",
+                "path": "#"
+            },
+            {
+                "id": 1,
+                "text": "Vercel Hosting",
+                "path": "#"
+            },
+            {
+                "id": 2,
+                "text": "MongoDB/Mongoose CRUD",
+                "path": "#"
+            },
+            {
+                "id": 3,
+                "text": "Firebase image hosting",
+                "path": "#"
+            },
+            {
+                "id": 4,
+                "text": "Node JS",
+                "path": "#"
+            },
+            {
+                "id": 5,
+                "text": "Github",
+                "path": "#"
+            },
+            {
+                "id": 6,
+                "text": "QA Testing",
+                "path": "#"
+            }
+        ]
+    },
+    "footer-link-widget": {
+        "menu": [
+            {
+                "id": 1,
+                "text": "Terms",
+                "path": "#"
+            },
+            {
+                "id": 2,
+                "text": "Privacy Policy",
+                "path": "#"
+            }
+        ]
+    },
+    "copyright_text": "©2023, Inc. All rights reserved"
+}

@@ -1,0 +1,6 @@
+db stores values
+respond with nft id
+SAFE mint (sender address, nft id)
+map nft id to address 
+/:id dynamic sluds, how do you handle?
+PUT ENV variables for fireBaseConfig 
